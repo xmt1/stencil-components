@@ -7,9 +7,10 @@
 
 ## Properties
 
-| Property | Attribute | Description | Type     |
-| -------- | --------- | ----------- | -------- |
-| `title`  | `title`   |             | `string` |
+| Property | Attribute | Description | Type      |
+| -------- | --------- | ----------- | --------- |
+| `open`   | `open`    |             | `boolean` |
+| `title`  | `title`   |             | `string`  |
 
 
 ----------------------------------------------
