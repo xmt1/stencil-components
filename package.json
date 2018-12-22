@@ -20,7 +20,7 @@
     "my-component": "0.0.0"
   },
   "devDependencies": {
-    "@stencil/core": "~0.15.2"
+    "@stencil/core": "0.16.1"
   },
   "license": "MIT"
 }
